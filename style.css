@@ -1,0 +1,15 @@
+body {
+    margin: 5px; 
+    padding: 5px;
+}
+
+.current-city,
+.weather,
+.icon {
+    display: none; 
+}
+
+.five-day-forecast {
+    display: flex; 
+    display: inline; 
+}
